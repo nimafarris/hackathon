@@ -1,0 +1,8 @@
+The Voice Football World Cup
+
+The idea is to leverage voice to create a new trivia game and global competitions around football.
+People will have the opportunity to test their football knowledge playing alone or with their friends but they will also have the opportunity to enter into global competitions that will crown the best players and rewards them with “money can’t buy” experiences (e.g. meet and greet with football players, a 
+The global competition could be developed as explained below:
+- live gaming sessions where the participants will be asked to answer questions around football (e.g. game rules, historical games, players stats, etc) in rounds of 10 questions each. Players which will respond to at least 7 questions correctly will move to the next round. Number of rounds will depend on the number of participants.
+The competitions can be also sponsored so that participants can win also branded prizes and FIFA can monetize the events. 
+
